@@ -8,6 +8,7 @@ https://github.com/prograhammer/countries-regions-cities
 ## Installation
 - Extract Country-Region-City MSSQL.7z with 7zip
 - Open Visual Studio SQL Server Object Explorer or Microsoft SQL Server Management Studio
+- Create a database with the name you want and select it
 - Execute the scripts in the order that they appear (cities insert will take a few minutes)
 
 ## Data Structure
