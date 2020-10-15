@@ -20,7 +20,7 @@ https://github.com/prograhammer/countries-regions-cities
 | ------------- |:---------------------------------------------| :--------------------------------|
 | Id            | SMALLINT(5) UNSIGNED NOT NULL AUTO_INCREMENT | Primary Key for a Country        |
 | Name          | VARCHAR(255) NOT NULL                        | Country name                     |
-| Code          | VARCHAR(2) NOT NULL                          | Country abbreviation             |
+| Code          | VARCHAR(2) NOT NULL                          | Country abbreviation/ISO code             |
 | Language      | VARCHAR(3) NOT NULL                          | Language code                    |
 
 ### Regions table (regions/provinces/states)
